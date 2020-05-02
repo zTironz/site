@@ -1,3 +1,3 @@
 # site
 
-https://github.io/zTironz/site
+https://zTironz.github.io/site
